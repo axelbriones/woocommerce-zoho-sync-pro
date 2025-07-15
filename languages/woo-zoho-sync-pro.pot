@@ -1,0 +1,790 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Zoho Sync Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-07 06:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: templates/settings.php:12 templates/settings.php:51
+msgid "#"
+msgstr ""
+
+#: includes/plugin-pages.php:1188
+#, php-format
+msgid "%s deleted"
+msgstr ""
+
+#: includes/plugin-pages.php:1186
+#, php-format
+msgid "%s filtered"
+msgstr ""
+
+#: pro/plugin-api.php:388
+#, php-format
+msgid "%s Update is available"
+msgstr ""
+
+#: pro/plugin-api.php:390
+#, php-format
+msgid "%s Update is not available"
+msgstr ""
+
+#: pro/pro-mapping.php:240
+#, php-format
+msgid "%s. Add as Campaign Member"
+msgstr ""
+
+#: templates/field-mapping.php:529
+#, php-format
+msgid "%s. Add Note."
+msgstr ""
+
+#: pro/pro-mapping.php:127 pro/pro-mapping.php:190
+#, php-format
+msgid "%s. Add Products"
+msgstr ""
+
+#: pro/pro-mapping.php:300
+#, php-format
+msgid "%s. Assign Contact"
+msgstr ""
+
+#: pro/pro-mapping.php:346
+#, php-format
+msgid "%s. Assign Invoice"
+msgstr ""
+
+#: templates/field-mapping.php:454
+#, php-format
+msgid "%s. Choose Primary Key."
+msgstr ""
+
+#: pro/pro-mapping.php:10
+#, php-format
+msgid "%s. Object Owner"
+msgstr ""
+
+#: pro/pro-mapping.php:388
+#, php-format
+msgid "%s. Send Email "
+msgstr ""
+
+#: woo-zoho.php:182
+#, php-format
+msgid "%sWooCommerce%s is required. %sDownload latest version!%s"
+msgstr ""
+
+#: templates/field-map-account.php:274
+msgid "1. Select Zoho Account"
+msgstr ""
+
+#: templates/field-map-object.php:8
+msgid "2. Select Zoho Object"
+msgstr ""
+
+#: templates/field-mapping.php:7
+msgid "3. Map Form Fields to Zoho Fields."
+msgstr ""
+
+#: templates/field-mapping.php:290
+msgid "4. When to Send the Order to Zoho."
+msgstr ""
+
+#: woo-zoho.php:186
+#, php-format
+msgid ""
+"A higher version of %sWooCommerce%s is required. %sDownload latest version!%s"
+msgstr ""
+
+#: includes/plugin-pages.php:1705
+msgid ""
+"A new product will be created in selected Pricebook. You can add a "
+"description for new products created by this plugin."
+msgstr ""
+
+#: pro/add-ons.php:944
+msgid "Access Denied"
+msgstr ""
+
+#: templates/settings.php:13 templates/settings.php:52
+msgid "Account"
+msgstr ""
+
+#: includes/plugin-pages.php:1674
+msgid "Account Deleted Successfully"
+msgstr ""
+
+#: templates/setting.php:5
+#, php-format
+msgid "Account ID# %d"
+msgstr ""
+
+#: templates/setting.php:15
+msgid "Account Name"
+msgstr ""
+
+#: templates/settings.php:17 templates/settings.php:56
+msgid "Action"
+msgstr ""
+
+#: pro/add-ons.php:712
+msgid "Activate"
+msgstr ""
+
+#: pro/plugin-api.php:781
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: pro/add-ons.php:672 templates/log-entries.php:362
+msgid "Active"
+msgstr ""
+
+#: templates/field-mapping.php:436 templates/settings.php:85
+msgid "Add / Delete Notes to Zoho when added / deleted in WooCommerce"
+msgstr ""
+
+#: templates/field-mapping.php:376 templates/field-mapping.php:418
+msgid "Add AND Filter"
+msgstr ""
+
+#: templates/field-mapping.php:269
+msgid "Add Field"
+msgstr ""
+
+#: templates/setting.php:7 templates/settings.php:6 templates/settings.php:6
+msgid "Add New Account"
+msgstr ""
+
+#: templates/field-mapping.php:237
+msgid "Add New Field"
+msgstr ""
+
+#: includes/plugin-pages.php:334
+msgid "Add New Zoho Feed"
+msgstr ""
+
+#: templates/field-mapping.php:540
+msgid "Add Note"
+msgstr ""
+
+#: templates/field-mapping.php:389
+msgid "Add OR Filter"
+msgstr ""
+
+#: pro/pro-mapping.php:247
+msgid "Add to Campaign"
+msgstr ""
+
+#: pro/add-ons.php:954
+msgid "Add-on name not specified."
+msgstr ""
+
+#: woo-zoho.php:838
+#, php-format
+msgid "Added to Zoho (%s) "
+msgstr ""
+
+#: includes/plugin-pages.php:332
+msgctxt "Admin menu name"
+msgid "Zoho Feeds"
+msgstr ""
+
+#: templates/log-entries.php:222
+msgid "All Objects"
+msgstr ""
+
+#: templates/log-entries.php:234
+msgid "All Status"
+msgstr ""
+
+#: templates/log-entries.php:245
+msgid "All Times"
+msgstr ""
+
+#: templates/log-entries.php:277
+msgid "Apply"
+msgstr ""
+
+#: templates/settings.php:99
+msgid "Are you sure to delete Account ?"
+msgstr ""
+
+#: templates/field-map-account.php:624
+msgid "Are you sure to remove ?"
+msgstr ""
+
+#: pro/pro-mapping.php:310
+msgid "Assign Contact"
+msgstr ""
+
+#: pro/pro-mapping.php:356
+msgid "Assign Invoice"
+msgstr ""
+
+#: pro/pro-mapping.php:17
+msgid "Assign Owner"
+msgstr ""
+
+#: includes/plugin-pages.php:1688
+msgid ""
+"Associate your Zoho fields to the appropriate order form fields by selecting."
+msgstr ""
+
+#: templates/setting.php:12
+msgid "Back to Accounts"
+msgstr ""
+
+#: pro/add-ons.php:897
+msgid "Back to CRM Perks Page"
+msgstr ""
+
+#: includes/plugin-pages.php:620
+msgid "Billing Fields"
+msgstr ""
+
+#: includes/plugin-pages.php:1138
+msgid "Bulk Action"
+msgstr ""
+
+#: pro/pro-mapping.php:259
+msgid "Campaign & Status Lists"
+msgstr ""
+
+#: templates/settings-common.php:90
+msgid "Changes you made may not be saved"
+msgstr ""
+
+#: pro/plugin-api.php:115
+msgid "Check for updates"
+msgstr ""
+
+#: includes/plugin-pages.php:1718
+msgid "Check this option if you want to send more data as CRM entry note"
+msgstr ""
+
+#: templates/log-entries.php:410
+msgid "Clear Zoho Log"
+msgstr ""
+
+#: templates/setting.php:138
+msgid "Client ID"
+msgstr ""
+
+#: templates/setting.php:164
+msgid "Client Secret"
+msgstr ""
+
+#: templates/log-entry.php:130
+msgid "Close"
+msgstr ""
+
+#: templates/log-entries.php:548
+msgid "Collapse Detail"
+msgstr ""
+
+#: templates/settings.php:28
+msgid "Connected"
+msgstr ""
+
+#: includes/plugin-pages.php:1557
+msgid "Connection to Zoho is NOT Working"
+msgstr ""
+
+#: includes/plugin-pages.php:1554
+msgid "Connection to Zoho is Working"
+msgstr ""
+
+#: templates/field-mapping.php:491
+msgid "Convert Lead "
+msgstr ""
+
+#: templates/setting.php:156
+msgid "Copy Client Id and Secret"
+msgstr ""
+
+#: pro/pro-mapping.php:203
+msgid "Create a Zoho line item for each Woocommerce line item"
+msgstr ""
+
+#: includes/plugin-pages.php:1696
+msgid "Create a Zoho Order product for each Woocommrce Cart item."
+msgstr ""
+
+#: pro/pro-mapping.php:140
+msgid "Create an order product for each line item"
+msgstr ""
+
+#: templates/setting.php:150
+#, php-format
+msgid "Create New Client %shere%s"
+msgstr ""
+
+#: includes/plugin-pages.php:1138 includes/plugin-pages.php:1198
+#: templates/settings.php:15 templates/settings.php:54
+msgid "Created"
+msgstr ""
+
+#. Author of the plugin
+#: pro/add-ons.php:67 pro/add-ons.php:68
+msgid "CRM Perks"
+msgstr ""
+
+#: pro/pro-mapping.php:422
+msgid "Custom Email Body (optional)"
+msgstr ""
+
+#: pro/pro-mapping.php:409
+msgid "Custom Email Subject (optional)"
+msgstr ""
+
+#: includes/plugin-pages.php:791 templates/field-mapping.php:110
+#: templates/field-mapping.php:156 templates/field-mapping.php:197
+msgid "Custom Field"
+msgstr ""
+
+#: templates/field-mapping.php:123 templates/field-mapping.php:209
+msgid "Custom Field Name"
+msgstr ""
+
+#: templates/field-mapping.php:316
+msgid "Custom Filter"
+msgstr ""
+
+#: includes/plugin-pages.php:791 templates/field-mapping.php:114
+#: templates/field-mapping.php:127 templates/field-mapping.php:201
+#: templates/field-mapping.php:213
+msgid "Custom Value"
+msgstr ""
+
+#: templates/log-entry.php:10
+msgid "Data Sent"
+msgstr ""
+
+#: pro/add-ons.php:719
+msgid "Deactivate"
+msgstr ""
+
+#: includes/plugin-pages.php:1138 pro/add-ons.php:713
+#: templates/field-mapping.php:46 templates/field-mapping.php:158
+#: templates/settings.php:41 templates/settings.php:41
+msgid "Delete"
+msgstr ""
+
+#: templates/settings.php:77
+msgid "Delete order data from Zoho when trashed from WooCommerce"
+msgstr ""
+
+#: includes/plugin-pages.php:1145 includes/plugin-pages.php:1204
+msgid "Deleted"
+msgstr ""
+
+#: includes/plugin-pages.php:170 templates/log-entries.php:321
+#: templates/log-entries.php:340
+msgid "Description"
+msgstr ""
+
+#: templates/log-entries.php:326 templates/log-entries.php:345
+msgid "Detail"
+msgstr ""
+
+#: templates/field-mapping.php:577
+msgid "Disable Note"
+msgstr ""
+
+#: pro/add-ons.php:672
+msgid "Disabled"
+msgstr ""
+
+#: templates/settings.php:28
+msgid "Disconnected"
+msgstr ""
+
+#: woo-zoho.php:388
+msgid "Dismiss Notice"
+msgstr ""
+
+#: templates/log-entries.php:302 templates/log-entries.php:411
+msgid "Displaying"
+msgstr ""
+
+#: templates/field-mapping.php:584
+msgid "Do not Add Note if entry already exists in Zoho"
+msgstr ""
+
+#: pro/plugin-api.php:790
+#, php-format
+msgid "Don't have a license key? Purchase one %s here %s."
+msgstr ""
+
+#: includes/plugin-pages.php:335 templates/settings.php:38
+msgid "Edit"
+msgstr ""
+
+#: templates/log-entry.php:125
+msgid "Edit Feed"
+msgstr ""
+
+#: includes/plugin-pages.php:336
+msgid "Edit Zoho Feed"
+msgstr ""
+
+#: pro/pro-mapping.php:21 pro/pro-mapping.php:251 pro/pro-mapping.php:314
+#: pro/pro-mapping.php:360 pro/pro-mapping.php:401
+#: templates/field-mapping.php:320 templates/field-mapping.php:547
+msgid "Enable"
+msgstr ""
+
+#: includes/plugin-pages.php:1710
+msgid "Enable this option , if you want to assign a Vendor to this object"
+msgstr ""
+
+#: includes/plugin-pages.php:1720
+msgid "Enable this option if you want to add note only for new CRM entry"
+msgstr ""
+
+#: includes/plugin-pages.php:1707
+msgid "Enable this option if you want to assign an account this object."
+msgstr ""
+
+#: includes/plugin-pages.php:1714
+msgid "Enable this option if you want to assign another object owner."
+msgstr ""
+
+#: includes/plugin-pages.php:1716
+msgid ""
+"Enable this option if you want to synchronize WooCommerce Order notes to "
+"Zoho Object notes. For example, when you add a note to a WooCommerce Order, "
+"it will be added to the Zoho Object selected in the feed."
+msgstr ""
+
+#: templates/setting.php:152
+#, php-format
+msgid "Enter %s or %s in Redirect URI"
+msgstr ""
+
+#: templates/setting.php:151
+msgid "Enter Client Name(eg. My App)"
+msgstr ""
+
+#: templates/setting.php:193
+msgid "Enter comma separated email addresses"
+msgstr ""
+
+#: templates/setting.php:194
+msgid ""
+"Enter comma separated email addresses. An email will be sent to these email "
+"addresses if an order is not properly added to Salesforce. Leave blank to "
+"disable."
+msgstr ""
+
+#: pro/plugin-api.php:903
+msgid "Enter License Key"
+msgstr ""
+
+#: pro/plugin-api.php:799
+msgid "Enter Your License Key"
+msgstr ""
+
+#: pro/add-ons.php:1005
+msgid "ERROR"
+msgstr ""
+
+#: includes/plugin-pages.php:225
+msgid "Error While Clearing Zoho Logs"
+msgstr ""
+
+#: pro/plugin-api.php:754
+msgid "Error while installing Plugin"
+msgstr ""
+
+#: woo-zoho.php:1462
+msgid "Error While Posting to Zoho"
+msgstr ""
+
+#: includes/plugin-pages.php:1677
+msgid "Error While Removing Account"
+msgstr ""
+
+#: pro/pro-mapping.php:11 pro/pro-mapping.php:128 pro/pro-mapping.php:191
+#: pro/pro-mapping.php:241 pro/pro-mapping.php:303 pro/pro-mapping.php:349
+#: pro/pro-mapping.php:390 templates/field-map-account.php:275
+#: templates/field-map-object.php:9 templates/field-mapping.php:8
+#: templates/field-mapping.php:48 templates/field-mapping.php:159
+#: templates/field-mapping.php:238 templates/field-mapping.php:291
+#: templates/field-mapping.php:455 templates/field-mapping.php:530
+#: templates/log-entry.php:11 templates/log-entry.php:49
+#: templates/log-entry.php:75
+msgid "Expand / Collapse"
+msgstr ""
+
+#: templates/log-entries.php:387 templates/log-entries.php:541
+msgid "Expand Detail"
+msgstr ""
+
+#: templates/log-entries.php:281
+msgid "Export as CSV"
+msgstr ""
+
+#: templates/log-entries.php:478
+msgid ""
+"Exporting more than 4 entries may take too long. Are you sure you want to "
+"continue?"
+msgstr ""
+
+#: includes/plugin-pages.php:1143 includes/plugin-pages.php:1196
+msgid "Failed"
+msgstr ""
+
+#: templates/field-mapping.php:76 templates/field-mapping.php:78
+msgid "Field API Name"
+msgstr ""
+
+#: templates/field-mapping.php:86 templates/field-mapping.php:176
+msgid "Field Type"
+msgstr ""
+
+#: includes/plugin-pages.php:1144 includes/plugin-pages.php:1202
+msgid "Filtered"
+msgstr ""
+
+#: includes/plugin-pages.php:1139
+msgid "Force Send to Zoho - Ignore Filters"
+msgstr ""
+
+#: templates/log-entries.php:256
+msgid "From Date"
+msgstr ""
+
+#: includes/plugin-pages.php:628
+msgid "General Fields"
+msgstr ""
+
+#: includes/plugin-pages.php:1699
+msgid "Get Campaigns and Status list from Zoho."
+msgstr ""
+
+#: pro/plugin-api.php:893
+msgid "Get License Key"
+msgstr ""
+
+#: includes/plugin-pages.php:1698
+msgid "Get PriceBooks list from Zoho."
+msgstr ""
+
+#: includes/plugin-pages.php:1715
+msgid "Get Users list from Zoho"
+msgstr ""
+
+#: pro/add-ons.php:60
+#, php-format
+msgid "Go to %sCRM Perks%s Page to manage Add-ons"
+msgstr ""
+
+#: templates/crm-order-box.php:88
+msgid "Go to Logs"
+msgstr ""
+
+#: templates/uninstall.php:13
+msgid "Go to Plugins Page"
+msgstr ""
+
+#: pro/add-ons.php:731
+msgid "Go to Settings"
+msgstr ""
+
+#: templates/settings-common.php:109
+msgid "Hide Key"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.crmperks.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://www.crmperks.com/plugins/woocommerce-plugins/woocommerce-zoho-plugin/"
+msgstr ""
+
+#: includes/plugin-pages.php:651
+msgid "ID from other Feeds"
+msgstr ""
+
+#: includes/plugin-pages.php:1713
+msgid "If enabled, Lead/Contact will be added to selected Campaign"
+msgstr ""
+
+#: templates/field-mapping.php:497
+msgid "If Lead found, convert to Contact, otherwise ignore the lead."
+msgstr ""
+
+#: pro/plugin-api.php:893
+#, php-format
+msgid "If you don't have a license key, you can get from %shere%s."
+msgstr ""
+
+#: templates/settings.php:7
+#, php-format
+msgid "If you don't have a Zoho account, you can %ssign up for one here%s."
+msgstr ""
+
+#: templates/log-entries.php:362
+msgid "Inactive"
+msgstr ""
+
+#: pro/add-ons.php:706
+msgid "Install"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Integrates WooCommerce with Zoho allowing new orders to be automatically "
+"sent to your Zoho account."
+msgstr ""
+
+#: includes/plugin-pages.php:1882
+msgid "Invalid Email(s)"
+msgstr ""
+
+#: templates/settings.php:16 templates/settings.php:55
+msgid "Last Connection"
+msgstr ""
+
+#: pro/plugin-api.php:733 pro/plugin-api.php:794 pro/plugin-api.php:891
+#: pro/plugin-api.php:897
+msgid "License Key"
+msgstr ""
+
+#: pro/plugin-api.php:915
+#, php-format
+msgid "License Key is Valid - %s"
+msgstr ""
+
+#: pro/pro-mapping.php:136 pro/pro-mapping.php:199
+msgid "Line Items"
+msgstr ""
+
+#: includes/plugin-pages.php:635
+msgid "Line Items Data"
+msgstr ""
+
+#: templates/field-map-account.php:303 templates/field-map-object.php:60
+msgid "Loading, Please Wait..."
+msgstr ""
+
+#: pro/add-ons.php:72 pro/add-ons.php:548
+msgid "Manage Add-ons"
+msgstr ""
+
+#: includes/plugin-pages.php:812
+msgid "Manually send order to Zoho"
+msgstr ""
+
+#: templates/field-mapping.php:63 templates/field-mapping.php:168
+msgid "Max Length:"
+msgstr ""
+
+#: templates/log-entry.php:74
+msgid "More Detail"
+msgstr ""
+
+#: includes/plugin-pages.php:990
+msgid "N/A"
+msgstr ""
+
+#: templates/field-mapping.php:56 templates/field-mapping.php:166
+msgid "Name:"
+msgstr ""
+
+#: pro/add-ons.php:690
+#, php-format
+msgid "New Version %s is available."
+msgstr ""
+
+#: includes/plugin-pages.php:333 includes/plugin-pages.php:337
+msgid "New Zoho Feed"
+msgstr ""
+
+#: includes/plugin-pages.php:782
+msgid "No Fields Found"
+msgstr ""
+
+#: includes/plugin-pages.php:1002
+msgid "No Object"
+msgstr ""
+
+#: includes/plugin-pages.php:913
+msgid "No Objects Found"
+msgstr ""
+
+#: templates/log-entries.php:397
+msgid "No Record(s) Found"
+msgstr ""
+
+#: templates/settings.php:45
+#, php-format
+msgid "No Zoho Account Found. %sAdd New Account%s"
+msgstr ""
+
+#: includes/plugin-pages.php:341
+msgid "No Zoho Feeds found"
+msgstr ""
+
+#: includes/plugin-pages.php:342
+msgid "No Zoho Feeds found in trash"
+msgstr ""
+
+#: pro/add-ons.php:672
+msgid "Not Installed"
+msgstr ""
+
+#: templates/field-mapping.php:556
+msgid "Note Fields"
+msgstr ""
+
+#: includes/plugin-pages.php:952 templates/log-entry.php:37
+msgid "Nothing Posted to Zoho"
+msgstr ""
+
+#: templates/setting.php:231
+msgid "Notification - Remove Connection?"
+msgstr ""
+
+#: templates/setting.php:192
+msgid "Notify by Email on Errors"
+msgstr ""
+
+#: includes/plugin-pages.php:1023
+msgid "Zoho Object"
+msgstr ""
+
+#: templates/log-entry.php:48
+msgid "Zoho Response"
+msgstr ""
+
+#: includes/plugin-pages.php:267 includes/plugin-pages.php:1148
+msgid "Zoho Settings"
+msgstr ""
+
+#: includes/plugin-pages.php:727
+#, php-format
+msgid "Zoho Settings are not Valid. Go to %sSettings%s"
+msgstr ""
+
+#: templates/settings.php:7
+msgid "Zoho Signup"
+msgstr ""
+
+#: templates/field-mapping.php:560
+msgid "{field-id} text"
+msgstr ""
