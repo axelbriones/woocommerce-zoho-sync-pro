@@ -70,7 +70,7 @@ public function init(){
   }
 
   require_once(self::$path . "includes/plugin-pages.php");
-  require_once(self::$path . "includes/crmperks-wc.php");
+  require_once(self::$path . "includes/wzspbb-wc.php");
 
 self::$is_pr=true;
  $pro_file=self::$path . 'pro/add-ons.php';
