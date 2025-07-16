@@ -1777,6 +1777,7 @@ public function get_objects($info="",$refresh=false){
 
 endif;
 
+require_once(wzspbb_zoho_DIR . "includes/install.php");
 $wzspbb_zoho=new wzspbb_zoho();
 $wzspbb_zoho->instance();
 $vx_wc['wzspbb_zoho']='wzspbb_zoho';
