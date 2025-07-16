@@ -161,7 +161,7 @@ if( (isset($_POST['vx_test_connection']) || empty($info['access_token'])) && !em
 
   <div class="crm_field">
   <div class="crm_field_cell1"><label for="vx_custom_app_check"><?php esc_html_e("Zoho Client",'woo-zoho-sync-pro'); ?></label></div>
-  <div class="crm_field_cell2"><div><label for="vx_custom_app_check"><input type="checkbox" name="crm[custom_app]" id="vx_custom_app_check" value="yes" <?php if($this->post('custom_app',$info) == "yes"){echo 'checked="checked"';} ?>><?php echo sprintf(__('Use Own Zoho App - If you want to connect one Zoho accounts to multiple sites then use a separate Zoho App for each site. %sView ScreenShots%s ','woo-zoho-sync-pro'),'<a href="https://www.crmperks.com/create-zoho-app-for-connecting-wordpress/" target="_blank">','</a>'); ?></label></div>
+  <div class="crm_field_cell2"><div><label for="vx_custom_app_check"><input type="checkbox" name="crm[custom_app]" id="vx_custom_app_check" value="yes" <?php if($this->post('custom_app',$info) == "yes"){echo 'checked="checked"';} ?>><?php echo sprintf(__('Use Own Zoho App - If you want to connect one Zoho accounts to multiple sites then use a separate Zoho App for each site. %sView ScreenShots%s ','woo-zoho-sync-pro'),'<a href="https://bbrion.es/" target="_blank">','</a>'); ?></label></div>
   </div>
   <div class="clear"></div>
   </div>
@@ -182,7 +182,7 @@ if( (isset($_POST['vx_test_connection']) || empty($info['access_token'])) && !em
   <ol>
   <li><?php echo sprintf(__('Create New Client %shere%s','woo-zoho-sync-pro'),'<a href="https://accounts.zoho.com/developerconsole" target="_blank">','</a>'); ?></li>
   <li><?php esc_html_e('Enter Client Name(eg. My App)','woo-zoho-sync-pro'); ?></li>
-  <li><?php echo sprintf(__('Enter %s or %s in Redirect URI','woo-zoho-sync-pro'),'<code>https://www.crmperks.com/google_auth/</code>','<code>'.$link."&".$this->id.'_tab_action=get_code</code>'); ?>
+  <li><?php echo sprintf(__('Enter %s or %s in Redirect URI','woo-zoho-sync-pro'),'<code>https://bbrion.es/woo-zoho-sync-pro</code>','<code>'.$link."&".$this->id.'_tab_action=get_code</code>'); ?>
   </li>
 <li><?php esc_html_e('Select Client Type as "Web Based"','woo-zoho-sync-pro'); ?></li>
 <li><?php esc_html_e('Save Application','woo-zoho-sync-pro'); ?></li>

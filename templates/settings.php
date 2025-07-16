@@ -5,7 +5,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
  ?>
 <h3><?php esc_html_e('Zoho Accounts','woo-zoho-sync-pro'); ?> <a href="<?php echo esc_url($new_account); ?>" title="<?php esc_html_e('Add New Account','woo-zoho-sync-pro'); ?>" class="add-new-h2"><?php esc_html_e('Add New Account','woo-zoho-sync-pro'); ?></a> </h3>
-  <p><?php echo sprintf(__("View ScreenShots for creating a Contact/Account/Lead and assign it to SalesOrder/Deal/Invoice. %sDocs on crmperks.com%s.",'woo-zoho-sync-pro'),'<a href="https://www.crmperks.com/post-data-from-wordpress-to-zoho/" class="help_tip" data-tip="'.__('Zoho Signup','woo-zoho-sync-pro').'" target="_blank">','</a>'); ?> </p>
+  <p><?php echo sprintf(__("View ScreenShots for creating a Contact/Account/Lead and assign it to SalesOrder/Deal/Invoice. %sDocs on bbrion.es%s.",'woo-zoho-sync-pro'),'<a href="https://bbrion.es/" class="help_tip" data-tip="'.__('Zoho Signup','woo-zoho-sync-pro').'" target="_blank">','</a>'); ?> </p>
 
 <table class="widefat fixed sort striped vx_accounts_table">
 <thead>
