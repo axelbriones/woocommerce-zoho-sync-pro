@@ -608,12 +608,12 @@ msgid "Hide Key"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "https://www.crmperks.com"
+msgid ""
 msgstr ""
 
 #. URI of the plugin
 msgid ""
-"https://www.crmperks.com/plugins/woocommerce-plugins/woocommerce-zoho-plugin/"
+""
 msgstr ""
 
 #: includes/plugin-pages.php:651
@@ -628,7 +628,7 @@ msgstr ""
 msgid "If Lead found, convert to Contact, otherwise ignore the lead."
 msgstr ""
 
-#: pro/plugin-api.php:893
+#: pro/plugin-api.php:790
 #, php-format
 msgid "If you don't have a license key, you can get from %shere%s."
 msgstr ""
