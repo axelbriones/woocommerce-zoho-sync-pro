@@ -128,7 +128,9 @@ $this->install_plugin();
 
 public function install_plugin(){
            self::$path=$this->get_base_path();
+  if(!class_exists('wzspbb_install')){
   include_once(self::$path . "includes/install.php");
+  }
   $class=$this->id.'_install';
   $install=new $class();
   $install->create_tables();
