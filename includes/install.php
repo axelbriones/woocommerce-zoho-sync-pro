@@ -3,9 +3,9 @@
 if( !defined( 'ABSPATH' ) ) exit;
 
 
-if( !class_exists( 'wzspbb_install' ) ):
+if( !class_exists( 'wzspbb_zoho_install' ) ):
 
-class wzspbb_install extends wzspbb_zoho{
+class wzspbb_zoho_install extends wzspbb_zoho{
 
 public function create_tables(){
     global $wpdb;
